@@ -1,4 +1,8 @@
--- Query membuat sebuah database; 
-create database tugas_erd;
+-- Query Membuat Database
+CREATE DATABASE tugas_erd;
 
-use tugas_erd;
+-- Query Untuk menggunakan database 
+USE tugas_erd;
+
+-- Query untuk melihat keseluruhan database
+SHOW databases
